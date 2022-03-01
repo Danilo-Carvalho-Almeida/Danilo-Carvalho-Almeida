@@ -1,6 +1,6 @@
 ## Olá eu sou o Danilo Carvalho, estudante de programação e tecnologia!
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/Danilo-Carvalho-Almeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-carvalho-almeida&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-carvalho-almeida&layout=compact&langs_count=7&theme=merko"/>
